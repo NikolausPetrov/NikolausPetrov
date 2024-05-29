@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NikolausPetrov
+- 👀 I’m interested in creation of programs and games
+- 🌱 I’m currently learning Java
+- ⚡ Fun fact: I have been interested in programming since I was 13 years old, but received a higher education in the humanities
